@@ -1,6 +1,4 @@
-# Friday Night Funkin' - Play Engine
-Engine Will be used on Vs MaysLastPlay mod
-engine made as a custom build of psych engine with some modification to it. as psych engine, this engine has mods support with lua too.
+# Friday Night Funkin' - Psych Engine
 
 # Compiling infos:
 you must have [newer version of haxe](https://haxe.org/download/) because 4.1.5 misses lots of stuff
@@ -14,16 +12,6 @@ to install luajit you have to use this because of the android support stuff: `ha
 if you don't want your mod to run lua, remove in project.xml the "lua_allowed" line
 
 also you need this for compiling: `https://github.com/jigsaw-4277821/androidtools ` on a command prompt/powershell 
-
-## Credits:
-* psych engine team - base engine
-* mayslastplay - play engine coder and lead developer
-
-### Special thanks
-* psych engine contributors - contributing on the base engine
-* vegethyt - additional coding and vs mayslastplay dev
-* m.a jigsaw - android support and libraries
-* angël - android controls style maker
 
 # Features
 
